@@ -84,3 +84,9 @@ cabecalho {
   color: #ffffff;
   border: 2px solid #f7f7f7;
 }
+.lista-horizontal {
+  text-align: center;
+}
+.lista-horizontal img {
+  max-height: 50px;
+}
